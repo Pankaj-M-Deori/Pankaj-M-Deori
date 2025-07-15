@@ -24,6 +24,10 @@ I'm a B.Com graduate with strong foundation in Excel, Power BI, and SQL. Recentl
 
 - Next learning plan: Learn Python as my first programming language to strengthen my data science and automation capabilities.
 
+**My Motto**
+*“Live one day at a time. You're your own biggest rival. Focus on 1% improvement every day.
+Don’t stop learning. Don’t stop growing. One day, your 1% every day will make you part of the Top 1%.”*
+
 <!---
 Pankaj-M-Deori/Pankaj-M-Deori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
