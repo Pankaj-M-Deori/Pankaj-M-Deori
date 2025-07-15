@@ -8,7 +8,7 @@ I'm a B.Com graduate with strong foundation in Excel, Power BI, and SQL. Recentl
 
 - <a href="https://learn.microsoft.com/api/credentials/share/en-us/PankajMachiyaDeori-6286/B24EDC4E523A08F1?sharingId=83B3F40E5E33B28F">Microsoft Certified: Azure Fundamentals (AZ-900)
 
-** About me**
+**About me**
 - Currently learning Advanced SQL and deepening my understanding of data modeling and performance tuning.
 
 - Actively exploring AI tools and their integration with data analytics.
