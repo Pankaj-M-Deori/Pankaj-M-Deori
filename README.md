@@ -15,7 +15,14 @@ I'm a B.Com graduate with strong foundation in Excel, Power BI, and SQL. Recentl
 
 - Seeking entry-level opportunities (job/internship) where I can contribute my analytical skills and continue developing my expertise in data analysis, dashboard design, and database management.
 
-- Future Goal: Learn Python as my first programming language to strengthen my data science and automation capabilities.
+**Interests & Learning Approach**
+- Love experimenting with real-world datasets and drawing actionable insights.
+
+- Enjoy reading articles, documentation, and e-books related to data, analytics, and AI trends.
+
+- Regularly participate in online workshops, bootcamps, and challenges to stay updated and upskill continuously.
+
+- Next learning plan: Learn Python as my first programming language to strengthen my data science and automation capabilities.
 
 <!---
 Pankaj-M-Deori/Pankaj-M-Deori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
