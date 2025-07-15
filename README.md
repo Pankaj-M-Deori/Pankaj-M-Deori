@@ -24,7 +24,7 @@ I'm a B.Com graduate with strong foundation in Excel, Power BI, and SQL. Recentl
 
 - Next learning plan: Learn Python as my first programming language to strengthen my data science and automation capabilities.
 
-**My Motto**:
+**My Motto:**
 *“Live one day at a time. You're your own biggest rival. Focus on 1% improvement every day.
 Don’t stop learning. Don’t stop growing. One day, your 1% every day will make you part of the Top 1%.”*
 
